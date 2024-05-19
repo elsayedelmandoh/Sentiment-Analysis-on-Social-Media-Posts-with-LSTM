@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 tensorflow==2.7.0
 pandas==1.3.3
 numpy==1.21.2
 nltk==3.6.5
 matplotlib==3.4.3
+=======
+tensorflow==2.7.0
+pandas==1.3.3
+numpy==1.21.2
+nltk==3.6.5
+matplotlib==3.4.3
+>>>>>>> 0862d274a98ad802023ec61d11ede0de6bb71e1d
 seaborn==0.11.2
