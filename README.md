@@ -67,6 +67,6 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 
 ## Author
 
-This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions related to deep neural networks and artificial intelligence.
+This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://x.com/aang0007) for updates and discussions related to deep neural networks and artificial intelligence.
 
 Happy coding and deep learning!
