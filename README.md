@@ -13,7 +13,7 @@
 
 ## Overview
 
-Developed sentiment analysis on social media posts using NLTK for preprocessing and LSTM networks for classification. The model classifies data into positive or negative sentiment, achieving 99% accuracy on the training data and 89% accuracy on the test data.
+Developed sentiment analysis on social media posts using NLTK for preprocessing, and TF-IDF for feature extraction. Implemented an LSTM model for classification. The model classifies data into positive or negative sentiment, achieving 99% accuracy on the training data and 89% accuracy on the test data.
 
 ## Dataset
 
